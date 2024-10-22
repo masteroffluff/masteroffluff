@@ -15,10 +15,10 @@ Strong track record of identifying and resolving data-related issues
 
 🛠️ Tech Stack
 
-Frontend: JavaScript, React, Redux, TypeScript
-Backend: Node.js, Express.js, PHP
-Databases: PostgreSQL, MySQL
-Tools: Git, JIRA, SAP
+Frontend: JavaScript, React, Redux, TypeScript.
+Backend: Node.js, Express.js, PHP.
+Databases: PostgreSQL, MySQL.
+Tools: Git, JIRA, SAP.
 
 🌱 Latest Projects
 
