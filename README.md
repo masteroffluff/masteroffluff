@@ -15,8 +15,8 @@ Full Stack Developer with a strong background in systems analysis and data manag
 
 🛠️ Tech Stack
 
-* Frontend: JavaScript, React, Redux, TypeScript.
-* Backend: Node.js, Express.js, PHP.
+* Frontend: JavaScript, React, Redux, TypeScript, Vue.
+* Backend: Node.js, Express.js, PHP, Python Flask.
 * Databases: PostgreSQL, MySQL.
 * Tools: Git, JIRA, SAP.
 
